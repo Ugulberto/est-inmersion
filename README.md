@@ -22,6 +22,6 @@ Los resultados obtenidos son bastante precisos, y se pueden comprobar gracias a 
    Y después este:\
   ```pip install numpy, tensorflow, scikit-learn, matplotlib```
 6. Entonces, ejecuta:
-   ```cd ESTANCIAS` DE` INMERSIÓN` 2` BACH\``` y luego\
+   ```cd "ESTANCIAS DE INMERSIÓN 2 BACH"``` y luego\
    ```python keras_nn_seno.py```\
 y espera a obtener el resultado del entrenamiento.
