@@ -14,13 +14,13 @@ Los resultados obtenidos son bastante precisos, y se pueden comprobar gracias a 
 
 # ¿Cómo probar estos scripts?
 1. Instala la herramienta git en tu ordenador a través del siguiente enlace: https://git-scm.com/downloads
-2. En tu terminal de comandos, en el directorio que prefieras, ejecuta el siguiente comando:
-   ```git clone https://github.com/Ugulberto/est-inmersion.git```
-3. Instala el lenguaje de programación python: https://www.python.org/downloads/
-4. Una vez instalado python, ejecuta el siguiente comando:
-   ```pip install --upgrade pip```
-   Y después este:
-  ```pip install numpy, tensorflow, scikit-learn, matplotlib```
+2. En tu terminal de comandos, en el directorio que prefieras, ejecuta el siguiente comando:\
+   ```git clone https://github.com/Ugulberto/est-inmersion.git```\
+3. Instala el lenguaje de programación python: https://www.python.org/downloads/\
+4. Una vez instalado python, ejecuta el siguiente comando:\
+   ```pip install --upgrade pip```\
+   Y después este:\
+  ```pip install numpy, tensorflow, scikit-learn, matplotlib```\
 5. Entonces, ejecuta:
-   ```python keras_nn_seno.py```
-Y espera a obtener el resultado del entrenamiento.
+   ```python keras_nn_seno.py```\
+y espera a obtener el resultado del entrenamiento.
