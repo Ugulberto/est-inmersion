@@ -22,6 +22,6 @@ Los resultados obtenidos son bastante precisos, y se pueden comprobar gracias a 
 4. En tu terminal de comandos, en el directorio que prefieras, ejecuta el siguiente comando:\
    ```git clone https://github.com/Ugulberto/est-inmersion.git```
 5. Entonces, ejecuta:
-   ```cd "ESTANCIAS DE INMERSIÓN 2 BACH"``` y luego\
+   ```cd "est-inmersion"``` y luego\
    ```python keras_nn_seno.py```\
 y espera a obtener el resultado del entrenamiento.
